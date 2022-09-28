@@ -1,4 +1,6 @@
-# Aquí cubriremos varios temas como: 
+
+# v1.0.1 SOCKETS 
+## Aquí cubriremos varios temas como: 
 
 * Introducción a los sockets
 * Instalación de Socket.io
